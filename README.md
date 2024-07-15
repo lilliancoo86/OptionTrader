@@ -1,4 +1,5 @@
-# OptionTrader
+# Pre-Earnings Straddle Option Trader
+## Description
 - Python Trading Algorithm to Identify Profitable Options Strategies Before Earnings Reports.
 - Leverages the increased volatility preceding earnings announcements. Buys straddles at predicted strike prices a week before earnings date and sells right before earnings.
 # File Overview
