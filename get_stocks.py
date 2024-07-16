@@ -134,6 +134,7 @@ def main():
     # Get the start and end dates for the next trading week
     start_date, end_date = get_next_week_dates()
     
+    # Get earnings reports
     try:
         earnings_reports = get_earnings_reports(start_date, end_date)
     except Exception as e:
