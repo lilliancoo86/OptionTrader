@@ -140,6 +140,7 @@ def main():
         print(e)
         return
     
+    # Only include stocks with market cap >= 100M
     filtered_reports = filter_reports_by_market_cap(earnings_reports, 100)
     
     if not filtered_reports:
