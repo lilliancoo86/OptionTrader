@@ -15,7 +15,7 @@
 ## Data
 - data.xlsx: Cumulative data generated from the backtesting files for training the decision tree model
 
-## File Hierarchy Rational
+## File Hierarchy Rationale
 - Dividing get_stocks and get_options allows for tweaking the decision making algorithm for straddles without waiting to re-retrieve the stock data
 - Current suggestions and backtesting are divided because of the differences in API usage and overall code
 
