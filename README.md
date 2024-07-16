@@ -29,7 +29,7 @@ pip install the following libraries
 - pandas_market_calendars
 
 ## APIs
-Enter Your Own API Keys
+Enter API Keys
 - Orats
 - Finnhub
 - Alpha Vantage
