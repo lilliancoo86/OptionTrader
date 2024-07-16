@@ -16,7 +16,7 @@
   
 ## Data
 - data.xlsx: Cumulative data generated from the backtesting files for training the decision tree model
-- final_stock_list_backtest.xlsx: Sample backtested generated stock suggestions over the past 2 months with their individual gains/losses
+- final_stock_list_backtest.xlsx: Sample backtested generated stock suggestions over the past 2 months with their individual gains/losses. Showcases an average return of 40%
 
 ## File Hierarchy Rationale
 - Dividing get_stocks and get_options allows for tweaking the decision making algorithm for straddles without waiting to re-retrieve the stock data
